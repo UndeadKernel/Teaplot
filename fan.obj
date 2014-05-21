@@ -1,0 +1,31 @@
+# Blender3D v249 OBJ File: fan.blend
+# www.blender3d.org
+mtllib fan.mtl
+v 0.707107 0.707107 0.000000
+#vertexcolor 1 140 100 192
+v 1.000000 -0.000000 0.000000
+#vertexcolor 2 140 100 192
+v 0.707107 -0.707107 0.000000
+#vertexcolor 3 255 255 255
+v -0.000000 -1.000000 0.000000
+#vertexcolor 4 255 255 255
+v -0.707107 -0.707107 0.000000
+#vertexcolor 5 100 192 104
+v -1.000000 0.000000 0.000000
+#vertexcolor 6 100 192 104
+v -0.707107 0.707107 0.000000
+#vertexcolor 7 255 255 255
+v -0.000000 1.000000 0.000000
+#vertexcolor 8 255 255 255
+v 0.000000 -0.000000 0.000000
+#vertexcolor 9 233 40 40
+usemtl (null)
+s off
+f 2 1 9
+f 9 3 2
+f 9 4 3
+f 9 5 4
+f 9 6 5
+f 9 7 6
+f 9 8 7
+f 9 1 8
