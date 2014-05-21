@@ -1,6 +1,8 @@
-# Teaplot is a GUI demonstrating the capabilities of the Teaplot Graphics Library (TGL). The library is developed entirely from scratch. TGL is a software-based computer graphics library in the same style of OpenGL. Performance is not one of the objectives of the library; its main objective is to demonstrate how modern computer graphic algorithms and techniques are implemented.
+# The Teaplot Graphics Library
 
-![ScreenShot](http://www.binarycharly.com/site/wp-content/uploads/2012/10/monkey.gif)
+Teaplot is a GUI demonstrating the capabilities of the Teaplot Graphics Library (TGL). The library is developed entirely from scratch. TGL is a software-based computer graphics library in the same style of OpenGL. Performance is not one of the objectives of the library; its main objective is to demonstrate how modern computer graphic algorithms and techniques are implemented.
+
+![ScreenShot](http://www.binarycharly.com/site/wp-content/uploads/2012/10/teaplot.png)
 
 ## Teaplot Features:
 
@@ -10,6 +12,7 @@
 - Geometry: Parse meshes saved in the .obj format.
 - The viewport window is entirely rendered from scratch. The mesh is first drawn onto an RGB array surface (pixel by pixel) and then displayed as an image. The viewport is able to be resized. The program will reconstruct the mesh for the new window geometry. The projections are not recalculated to fit the new aspect ratio of the window.
 
+![ScreenShot](http://www.binarycharly.com/site/wp-content/uploads/2012/10/monkey.gif)
 
 ## TGL Features:
 
